@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: 7632b5084224b12469c4a2eba4a0ab3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8995588218563988581
+    second: Window 2
+  - first:
+      213: 8336739725304404058
+    second: uipng_1
+  - first:
+      213: 3827881477846923961
+    second: uipng_2
+  - first:
+      213: 1052244080260242446
+    second: uipng_3
+  - first:
+      213: -7816819584687192254
+    second: uipng_4
+  - first:
+      213: 5016782831942496226
+    second: uipng_5
+  - first:
+      213: 6775411492363445069
+    second: uipng_6
+  - first:
+      213: 3006425243852369494
+    second: uipng_7
+  - first:
+      213: 9062975483664726375
+    second: uipng_8
+  - first:
+      213: -6802285627738375094
+    second: uipng_9
+  - first:
+      213: -6545663787195578255
+    second: uipng_10
+  - first:
+      213: -5735082701546790349
+    second: uipng_11
+  - first:
+      213: -458659426510418003
+    second: uipng_12
+  - first:
+      213: 7446416558086515597
+    second: uipng_13
+  - first:
+      213: -2789349488172888856
+    second: uipng_14
+  - first:
+      213: -3519005236779678913
+    second: uipng_15
+  - first:
+      213: 1233136410407177940
+    second: uipng_16
+  - first:
+      213: -9102032260372334062
+    second: uipng_17
+  - first:
+      213: -4430533407481693343
+    second: uipng_18
+  - first:
+      213: 185336290669121275
+    second: uipng_19
+  - first:
+      213: 4148653693211269920
+    second: uipng_20
+  - first:
+      213: 1025614617958411155
+    second: uipng_21
+  - first:
+      213: -7074382756188371169
+    second: uipng_22
+  - first:
+      213: -8115243503935501017
+    second: uipng_23
+  - first:
+      213: 5379698244441250370
+    second: Window 1
+  - first:
+      213: 1098779635821355655
+    second: Button
+  - first:
+      213: -7058245289511707589
+    second: back
+  - first:
+      213: 8427770610167776955
+    second: menu
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Window 2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 54
+        width: 164
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c0239f2dfb6dc70800000000000000
+      internalID: 8995588218563988581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window 1
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 90
+        width: 217
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a96baec0788aa40800000000000000
+      internalID: 5379698244441250370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 12
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782a097d146af3f00800000000000000
+      internalID: 1098779635821355655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 304
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c941d2e431c0e90800000000000000
+      internalID: -7058245289511707589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 7
+        width: 121
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6078bb7b475f470800000000000000
+      internalID: 8427770610167776955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
